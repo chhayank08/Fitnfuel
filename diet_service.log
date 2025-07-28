@@ -1,0 +1,161 @@
+ * Serving Flask app 'diet_service_wrapper'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 937-297-324
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+Processing request with day_seed: 600, Goal: maintain, Daily calories: 2556
+Starting select_recipes with 1048543 recipes, day_seed: 600
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:53] "POST /api/diet/recommend HTTP/1.1" 200 -
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:53] "POST /api/diet/recommend HTTP/1.1" 200 -
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:53] "POST /api/diet/recommend HTTP/1.1" 200 -
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+Selected 3 recipes
+Meal 2: Green and Gold Chowder, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Selected 3 recipes
+127.0.0.1 - - [26/Jun/2025 19:10:54] "POST /api/diet/recommend HTTP/1.1" 200 -
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Selected 3 recipes
+Selected 3 recipes
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Selected 3 recipes
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:55] "POST /api/diet/recommend HTTP/1.1" 200 -
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Selected 3 recipes
+Selected 3 recipes
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:55] "POST /api/diet/recommend HTTP/1.1" 200 -
+Meal 2: Green and Gold Chowder, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Selected 3 recipes
+Selected 3 recipes
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:55] "POST /api/diet/recommend HTTP/1.1" 200 -
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:55] "POST /api/diet/recommend HTTP/1.1" 200 -
+Meal 3: Greek Chicken and Rice, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+Selected 3 recipes
+Meal 3: Greek Chicken and Rice, Image: 
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:10:56] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:56] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:56] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:56] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:57] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:57] "POST /api/diet/recommend HTTP/1.1" 200 -
+127.0.0.1 - - [26/Jun/2025 19:10:57] "POST /api/diet/recommend HTTP/1.1" 200 -
+After cleaning: 1214 recipes
+Selected 3 recipes
+Meal 1: Black Coffee Barbecue Sauce, Image: https://img.sndimg.com/food/image/upload/w_555,h_4...
+Meal 2: Couscous with Currants and Cumin, Image: 
+Meal 3: Fruity Rolled Oats Drops, Image: 
+127.0.0.1 - - [26/Jun/2025 19:11:02] "POST /api/diet/recommend HTTP/1.1" 200 -
+After cleaning: 1214 recipes
+Selected 3 recipes
+Meal 1: Blueberry Pancake Syrup, Image: 
+Meal 2: Green and Gold Chowder, Image: 
+Meal 3: Greek Chicken and Rice, Image: 
+127.0.0.1 - - [26/Jun/2025 19:11:05] "POST /api/diet/recommend HTTP/1.1" 200 -
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+After cleaning: 1214 recipes
+Processing request with day_seed: 0, Goal: weight_gain, Daily calories: 3111
+Starting select_recipes with 1048543 recipes, day_seed: 0
+/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
